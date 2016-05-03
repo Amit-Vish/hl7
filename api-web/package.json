@@ -1,0 +1,12 @@
+{
+  "name": "api-web",
+  "version": "1.0.0",
+  "description": "The micro-service that provides the HTTP endpoint for the API.",
+  "main": "api-web.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "qtort-microservices": ">=1.1.0"
+  }
+}

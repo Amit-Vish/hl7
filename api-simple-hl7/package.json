@@ -1,0 +1,12 @@
+{
+  "name": "api-simple-hl7",
+  "version": "1.0.0",
+  "description": "The api-hl7 rest resource microservice",
+  "main": "api-simple-hl7.js",
+  "dependencies": {
+    "ftp": "^0.3.10",
+    "qtort-microservices": "^1.1.0",
+    "simple-hl7": "^1.1.2"
+  },
+  "scripts": {}
+}

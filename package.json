@@ -1,0 +1,14 @@
+{
+  "name": "parshar",
+  "version": "1.0.0",
+  "description": "this is for encode the hl7 and send the files in the server",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-hl7": "^1.5.1"
+  }
+}

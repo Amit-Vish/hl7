@@ -1,0 +1,11 @@
+{
+  "name": "api-hl7",
+  "version": "1.0.0",
+  "description": "The api-hl7 rest resource microservice",
+  "main": "api-hl7.js",
+  "dependencies": {
+    "nodengine-hl7": "^4.1.7",
+    "qtort-microservices": "^1.1.0"
+  },
+  "scripts": {}
+}
